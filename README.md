@@ -12,6 +12,7 @@
 ## ЧАСТЬ 2
 1. 
 ![](https://github.com/Dimon322/hw6/blob/master/413EEEC3-9573-4868-8F6B-2748A5E372A7.jpeg)
+
 2.
 ![](https://github.com/Dimon322/hw6/blob/master/8130F076-DD60-463D-A672-2E550AA2016B.jpeg)
 
