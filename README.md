@@ -20,7 +20,13 @@
 ### БОНУСНОЕ ЗАДАНИЕ
 
 Задание сделано на примере слова inventive.
+
 1)Данные из BNC trends
 
+![](https://github.com/Dimon322/hw6/blob/master/E340CEB1-4BE7-4AD4-B754-03C729E04AF8.jpeg)
+![](https://github.com/Dimon322/hw6/blob/master/4C1CC726-98E6-45C7-B6E9-87AC12F56BC6.jpeg)
 
+2.Данные из Google Ngrams
+
+![](https://github.com/Dimon322/hw6/blob/master/F799BAA6-F6BE-417B-919C-8F75769C484E.jpeg)
 
